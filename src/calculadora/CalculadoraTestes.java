@@ -1,9 +1,5 @@
 package calculadora;
 
-/**
- *
- * @author gusta
- */
 public class CalculadoraTestes {
 
     /**
